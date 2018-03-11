@@ -1,5 +1,43 @@
 img{
     /* max-width: 300px; */
     margin: 30px;
-    width: 80%;
+    width: 90%;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p, h1, h2, h3, h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* .media{
+    background-color: grey;
+} */
+
+.navbar{
+    background-color: lightblue;
+    color: white;
+}
+
+h3{
+    background: lightblue;
+    padding: 15px 0;
+    margin: 0 auto;
+    margin-top: -40px;
+    color: white;
+    font-size: 20px;
+    width: 90%;
+}
+
+.media{
+    padding: 30px;
+    /* border-radius: 10%; */
+    border: 2px solid lightblue;
+}
+
+.chunk{
+    margin-bottom: 70px;
+    padding-bottom: 10px;
 }
